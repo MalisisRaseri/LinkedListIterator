@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LinkedListIterator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LinkedListIterator_jar</output-path>
+    <root id="archive" name="LinkedListIterator.jar">
+      <element id="module-output" name="LinkedListIterator" />
+    </root>
+  </artifact>
+</component>
